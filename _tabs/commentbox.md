@@ -10,9 +10,9 @@ You can leave a message here anonymously:
   <div id="cusdis_thread"
     data-host="https://cusdis.com"
     data-app-id="4c70ad9f-80bc-425e-9dbf-896b734e5d83"
-    data-page-id="{{ PAGE_ID }}"
-    data-page-url="{{ PAGE_URL }}"
-    data-page-title="{{ PAGE_TITLE }}"
+    data-page-id="commentbox"
+    data-page-url="https://christanharper.com/commentbox"
+    data-page-title="Comment Box"
     data-theme="dark"
   ></div>
 </div>
