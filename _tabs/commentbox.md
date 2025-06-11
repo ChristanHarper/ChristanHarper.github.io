@@ -6,18 +6,33 @@ order: 5
 
 You can leave a message here anonymously:
 
-<div id="cusdis_wrapper" style="min-height: 400px;">
-  <div id="cusdis_thread"
-    data-host="https://cusdis.com"
-    data-app-id="4c70ad9f-80bc-425e-9dbf-896b734e5d83"
-    data-page-id="commentbox"
-    data-page-url="https://christanharper.com/commentbox"
-    data-page-title="Comment Box"
-    data-theme="dark"
-  ></div>
-</div>
+<div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="4c70ad9f-80bc-425e-9dbf-896b734e5d83"
+     data-page-id="comment-box"
+     data-page-url="https://christanharper.com/comment-box"
+     data-page-title="Comment Box"
+     data-theme="dark"
+     style="width: 100%;"
+></div>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<style>
+  /* Make the embedded iframe fit and show the whole comment box */
+  iframe[data-cusdis-host] {
+    width: 100% !important;
+    height: 700px !important;  /* Increase this to show all */
+    border: none !important;
+    display: block !important;
+  }
+
+  #cusdis_thread {
+    max-width: 100% !important;
+    overflow: visible !important;
+  }
+</style>
+
 
 
 
