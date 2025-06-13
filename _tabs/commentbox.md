@@ -14,6 +14,7 @@ You can leave a message here anonymously: TEST1
      data-page-title="Comment Box"
      data-theme="dark"
      style="width: 100%;"
+     style="height: 100%;"
 ></div>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
