@@ -22,7 +22,7 @@ You can leave a message here anonymously: TEST1
   /* Make the embedded iframe fit and show the whole comment box */
   iframe[data-cusdis-host] {
     width: 100% !important;
-    height: 700px !important;  /* Increase this to show all */
+    height: 1000px !important;  /* Increase this to show all */
     border: none !important;
     display: block !important;
   }
