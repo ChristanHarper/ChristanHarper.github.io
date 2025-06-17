@@ -102,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/491446762_18501976195056569_2708688649939072931_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEU7qsDmRISXQIuuZ_I3pojskGlxH8vfzqijoFOqfldgOJMgDuaT_2VG0ij-2uPu2HLboqvp416Ofr-ivydzXUQ&_nc_ohc=m1XkJTTOrSwQ7kNvwExH0Yr&_nc_gid=uhWnr_89EZSycJd8DiAeQQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfMTzJiN1-dyfrNVKqbTibvCZG8vHYW-aeSAbG6ssFwgcg&oe=6856B27D&_nc_sid=7d3ac5
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
